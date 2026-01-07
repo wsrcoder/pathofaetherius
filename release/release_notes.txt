@@ -1,0 +1,4 @@
+
+
+2026-01-07
+- criado o conceito inicial da versão "Astral Guardians" para as standing stones.

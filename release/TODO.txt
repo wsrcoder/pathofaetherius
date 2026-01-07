@@ -1,0 +1,4 @@
+
+TODO
+
+- alguns arquétipos das stones ainda não foram completamente implementados. Em espcial os relacionados a Shadow Magic, Ligth Magic e Alchemy. O motivo disso é que esses conceitos ainda não estão bem definidos no contexto do mod.
